@@ -1,1 +1,1 @@
-export const serverUrl = 'http://localhost:8000/api'
+export const serverUrl = 'https://urlshortner-backend-nest.onrender.com/api'
